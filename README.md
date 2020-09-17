@@ -27,4 +27,7 @@ Descriptions for the relevant columns:
 * `cnt` - The total number of bike rentals (casual + registered)
 
 
-**Method**: I will predict the cnt column using all of the other columns, except for casual and registered, using a few different machine learning models and evaluate their performance.
+**Method**: I will predict the cnt column using all of the other columns, except for casual and registered, using a few different machine learning models and evaluate their performance. Models include:
+* Linear Regression
+* Decision Tree
+* Random Forests
